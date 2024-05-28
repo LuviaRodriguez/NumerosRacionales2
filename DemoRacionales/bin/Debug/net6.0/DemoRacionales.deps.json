@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DemoRacionales/1.0.0": {
+        "dependencies": {
+          "NumerosRacionales.Model": "1.0.0"
+        },
+        "runtime": {
+          "DemoRacionales.dll": {}
+        }
+      },
+      "NumerosRacionales.Model/1.0.0": {
+        "runtime": {
+          "NumerosRacionales.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoRacionales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NumerosRacionales.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
